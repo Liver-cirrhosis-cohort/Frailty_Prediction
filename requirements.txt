@@ -1,0 +1,9 @@
+### 3. `requirements.txt`
+
+```bash
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+shap
